@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Linn Benton
 
-<!--
-**linnbenton/linnbenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web3 Developer | Smart Contract Builder
 
-Here are some ideas to get you started:
+## 🏆 Contributions
+- Contributed to GenLayer Foundation  
+  → https://github.com/genlayer-foundation/points/pull/529
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Highlights
+- Improved validation & error handling in smart contracts
+- Added safer JSON parsing (JSONDecodeError)
+
+## ⚡ Tech
+- Python
+- Smart Contracts
+- Web3
