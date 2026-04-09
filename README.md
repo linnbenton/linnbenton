@@ -1,5 +1,8 @@
 # Linn Benton
 
-Web3 Developer
+Building.
 
+---
+
+Selected work:
 - https://github.com/genlayer-foundation/points/pull/529
